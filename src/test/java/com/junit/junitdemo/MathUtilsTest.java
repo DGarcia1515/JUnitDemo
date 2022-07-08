@@ -45,7 +45,7 @@ class MathUtilsTest {
         void addPositive() {
 
             int actual = utils.add(1 ,1);
-            int expected = 3;
+            int expected = 2;
 
             //assertEquals(expected, actual);
 
